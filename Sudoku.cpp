@@ -1,3 +1,13 @@
+//Sudoku.cpp
+/*
+*
+* Solving Sudoku
+* =============PROJECT============
+* Copyright (c) vali ahmad rahmani
+* Date Nov,20,2021
+* name Sudoku
+*
+*/
 #include <iostream>
 #include <windows.h>
 #include <myheader.h>
